@@ -39,7 +39,7 @@
 	|	Countdown JS
 	|-----------------------------------------------------
 	*/
-	var userDate = new Date('Tuesday, January 25, 2022 2:00:00 PM GMT').getTime();
+	var userDate = new Date('Tuesday, January 25, 2021 2:00:00 PM GMT').getTime();
 	function countDown(){
 
 		var frontYears 		= $( '.years' );
